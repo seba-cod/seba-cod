@@ -12,19 +12,7 @@
 
 <br>
 
-# *Habilidades blandas* 💬 
-
-<ul>
-<li>Excepcionales dotes comunicativos</li>
-<li>Responsable y de gran autonomía</li>
-<li>Gran rendimiento bajo presión</li>
-<li>Generador de resultados</li>
-<li>Facilidad para la investigación</li>
-<li>Solucionador de problemas</li>
-<li>Mediador nato</li></ul></h2>
-<br>
-
-## *Lenguajes y herramientas utilizadas*  
+## *Lenguajes y herramientas utilizadas* 💬 
 
 ---
 React, HTML5 -EJS, CSS3, Javascript, Express, MySQL -Sequelize,Node JS, Creacion y consumo de API’s RESTful, Postman, Git, VSCode. Metodologías Ágiles (Scrum), POO, Patrón de arquitectura MVC.
