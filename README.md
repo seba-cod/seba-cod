@@ -1,16 +1,68 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, soy Sebastián Koleff @seba-cod</h1>
+<h3 align='left'>⚡ Apasionado por los videojuegos y los motores a combustión, Desarrollador Web Fullstack Jr 😄</h3>
+<br>
 
-<!--
-**seba-cod/seba-cod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Contacto** 📫
 
-Here are some ideas to get you started:
+---
+<p>
+<h3 align='left'><a href="mailto:sebastiankoleff@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sebastiankoleff linkedin" height="30" width="40" />Correo electrónico </a></h3>
+<h3 align='left'><a href="https://linkedin.com/in/sebastiankoleff" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sebastiankoleff linkedin" height="30" width="40" />LinkedIn</a></h3>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+# *Habilidades blandas* 💬 
+
+<ul>
+<li>Excepcionales dotes comunicativos</li>
+<li>Responsable y de gran autonomía</li>
+<li>Gran rendimiento bajo presión</li>
+<li>Generador de resultados</li>
+<li>Facilidad para la investigación</li>
+<li>Solucionador de problemas</li>
+<li>Mediador nato</li></ul></h2>
+<br>
+
+## *Lenguajes y herramientas utilizadas*  
+
+---
+React, HTML5 -EJS, CSS3, Javascript, Express, MySQL -Sequelize,Node JS, Creacion y consumo de API’s RESTful, Postman, Git, VSCode. Metodologías Ágiles (Scrum), POO, Patrón de arquitectura MVC.
+
+<br>
+
+<div style="display: flex; flex-direction: row; justify-content: left; align-items:center">
+  <img src="https://cdn.svgporn.com/logos/npm.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/react.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px" height="30px" hspace="5"/>
+  <code style="background:#eaeaea"><%= EJS %></code>
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <code style='color:black; background:#FFF'>express</code>
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/postman.svg" width="30px" height="30px" hspace="5"/>  
+  <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/github-octocat.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/nodemon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/slack-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
+</div>
+
+<br>
+
+### GitHub Stats!
+---
+
+<br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seba-cod&show_icons=true&theme=tokyonight)
+
+### Contribuciones por lenguaje
+---
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seba-cod&langs_count=10&hide=RichTextFormat,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
