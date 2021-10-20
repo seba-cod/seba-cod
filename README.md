@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Sebastián Koleff @seba-cod</h1>
-<h3 align='left'>⚡ Apasionado por los videojuegos y los motores a combustión, Desarrollador Web Fullstack Jr 😄</h3>
+<h3 align='left'>⚡ Apasionado por los videojuegos y los motores a combustión, Desarrollador Web Fullstack 😄</h3>
 <br>
 
 ## **Contacto** 📫
